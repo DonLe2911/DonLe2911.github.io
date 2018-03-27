@@ -1,6 +1,6 @@
 /* GLOBAL STYLES */
 body {
-  background: #333;
+  background: maroon;
   padding-top: 5em;
   display: flex;
   justify-content: center;
@@ -29,5 +29,5 @@ body {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange }
+  50% { border-color: black }
 }
